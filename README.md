@@ -1,1 +1,1 @@
-# hrl_bonn_dataset
+# hrl_slam_dataset
